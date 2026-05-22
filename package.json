@@ -1,0 +1,9 @@
+{
+  "name": "simple-nft-minter-contract",
+  "version": "1.0.0",
+  "description": "Professional gas-optimized NFT contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "erc721a": "^4.2.3"
+  }
+}
